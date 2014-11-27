@@ -1,0 +1,11 @@
+{
+  "name": "base16-pretty-dark",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Forked Base16 dark theme for Atom w/ some small changes",
+  "repository": "https://github.com/ricardofbarros/base16-pretty-dark",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.49.0"
+  }
+}
