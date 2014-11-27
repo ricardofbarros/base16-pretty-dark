@@ -1,5 +1,7 @@
 # Tomorrow Dark Syntax theme
 
+**Warning: This is a fork from this [theme](https://github.com/atom/base16-tomorrow-dark-theme). I created a brand new repository so I could publish this package.**
+
 Atom theme using the ever popular [base16][base16] tomorrow dark colors.
 
 This theme is installed by default with Atom and can be activated by going to
