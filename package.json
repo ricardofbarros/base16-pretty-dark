@@ -1,7 +1,7 @@
 {
   "name": "base16-pretty-dark",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Forked Base16 dark theme for Atom w/ some small changes",
   "repository": "https://github.com/ricardofbarros/base16-pretty-dark",
   "license": "MIT",
